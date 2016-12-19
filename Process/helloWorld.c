@@ -1,5 +1,5 @@
 //
-//  main.c
+//  helloWorld.c
 //  Process
 //
 //  Created by jr2339 on 12/19/16.
@@ -16,6 +16,6 @@ int main(int argc, const char * argv[]) {
 
 /* How to run it on the terminal,we need to install GCC Compiler*/
 /*
- gcc main.c -o result
- ./result
+ gcc helloWorld.c -o helloWorld
+ ./helloWorld
  */
