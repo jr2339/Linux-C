@@ -13,3 +13,9 @@ int main(int argc, const char * argv[]) {
     printf("Hello, World!\n");
     return 0;
 }
+
+/* How to run it on the terminal,we need to install GCC Compiler*/
+/*
+ gcc main.c -o result
+ ./result
+ */
